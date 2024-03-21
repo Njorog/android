@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Mbushte" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.My" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Mburu" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
